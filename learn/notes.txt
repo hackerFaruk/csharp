@@ -1,0 +1,15 @@
+'a' tek tırnak char "aa" çift tırnak string
+string min =  new string('0',2); this makes new string named min "00"
+
+dotnet script command makes csharp scripting on terminal
+
+First create a project file using command 
+dotnet new console -n <project_name>
+dotnet : cli tool 
+new : means crete new project 
+console : is a template you can use diffrent templates 
+-n : means name so after you write proje name 
+
+on root of your project -> dotnet build 
+
+to run -> go in build ./program_name or just dotnet run

@@ -1,0 +1,14 @@
+/Users/onuralparslan/projects/csharp/asenkron/bin/Debug/net8.0/asenkron
+/Users/onuralparslan/projects/csharp/asenkron/bin/Debug/net8.0/asenkron.deps.json
+/Users/onuralparslan/projects/csharp/asenkron/bin/Debug/net8.0/asenkron.runtimeconfig.json
+/Users/onuralparslan/projects/csharp/asenkron/bin/Debug/net8.0/asenkron.dll
+/Users/onuralparslan/projects/csharp/asenkron/bin/Debug/net8.0/asenkron.pdb
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.AssemblyInfoInputs.cache
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.AssemblyInfo.cs
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.csproj.CoreCompileInputs.cache
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.dll
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/refint/asenkron.dll
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.pdb
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.genruntimeconfig.cache
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/ref/asenkron.dll

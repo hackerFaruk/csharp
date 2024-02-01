@@ -1,0 +1,14 @@
+/Users/onuralparslan/projects/csharp/learn/bin/Debug/net8.0/learn
+/Users/onuralparslan/projects/csharp/learn/bin/Debug/net8.0/learn.deps.json
+/Users/onuralparslan/projects/csharp/learn/bin/Debug/net8.0/learn.runtimeconfig.json
+/Users/onuralparslan/projects/csharp/learn/bin/Debug/net8.0/learn.dll
+/Users/onuralparslan/projects/csharp/learn/bin/Debug/net8.0/learn.pdb
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.AssemblyInfoInputs.cache
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.AssemblyInfo.cs
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.csproj.CoreCompileInputs.cache
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.dll
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/refint/learn.dll
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.pdb
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.genruntimeconfig.cache
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/ref/learn.dll
