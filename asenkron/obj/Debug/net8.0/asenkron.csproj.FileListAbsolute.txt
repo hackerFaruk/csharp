@@ -12,3 +12,4 @@
 /Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.pdb
 /Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.genruntimeconfig.cache
 /Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/ref/asenkron.dll
+/Users/onuralparslan/projects/csharp/asenkron/obj/Debug/net8.0/asenkron.sourcelink.json
