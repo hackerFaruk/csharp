@@ -12,3 +12,4 @@
 /Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.pdb
 /Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.genruntimeconfig.cache
 /Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/ref/learn.dll
+/Users/onuralparslan/projects/csharp/learn/obj/Debug/net8.0/learn.sourcelink.json
