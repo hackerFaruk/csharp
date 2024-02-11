@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("asenkron")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6000ea15af73274085c643a4b458c75855d8e494")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b6fc2b4f41a58b200ed31730922328697d39a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("asenkron")]
 [assembly: System.Reflection.AssemblyTitleAttribute("asenkron")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
