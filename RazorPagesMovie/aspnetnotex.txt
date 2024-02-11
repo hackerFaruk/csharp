@@ -1,0 +1,9 @@
+dotnet -new webapp -o RazorMovies > bu bir razor pages projesi oluşturr
+
+dotnet dev-certs https --trust > bu sayfayı güvenilir kılar
+
+
+.cshtml Söz dizimi kullanılarak Razor C# koduyla HTML işaretlemesi olan bir dosya.
+.cshtml.cs Sayfa olaylarını işleyen C# koduna sahip bir dosya
+
+
