@@ -12,11 +12,11 @@ class Learn
         {
             {"alm", 1},
             {"arr", 2},
-            {"Tokyo", 3}
+            {"help", 3}
         };
 
         Console.WriteLine("hey");
-        Console.WriteLine("choose application");
+        Console.WriteLine("choose application or type help to see list ");
         Console.WriteLine(functionList);
         string choice = Console.ReadLine();
         Console.WriteLine("given input is " + choice);
@@ -33,9 +33,22 @@ class Learn
                 Console.WriteLine("Today is Sunday.");
                 arrayLogic();
                 break;
+            case 3:
+                help();
+                break;
             default:
                 Console.WriteLine("Looking forward to the Weekend.");
                 break;
+        }
+
+ Main();
+    }
+
+    private static void help(Dictionary<string, int> functionList)
+    {
+        foreach (string key in functionList.Keys)
+        {
+            Console.WriteLine($" option: {key} ");
         }
 
     }
@@ -43,7 +56,7 @@ class Learn
     static void newFunc()
     {
         Console.WriteLine("hallo");
-        Main();
+       
     }
 
     static void arrayLogic()
@@ -52,10 +65,7 @@ class Learn
         Console.WriteLine("select a val between 0 and " + (value.Length - 1));
         string number = Console.ReadLine();
         Console.WriteLine(value[int.Parse(s: number)]);
-
-
-
-
-
     }
+
+   
 }
