@@ -15,11 +15,11 @@ class Learn
             {"help", 3}
         };
 
-        Console.WriteLine("hey");
+        
         Console.WriteLine("choose application or type help to see list ");
-        Console.WriteLine(functionList);
+       
         string choice = Console.ReadLine();
-        Console.WriteLine("given input is " + choice);
+      
 
 
 
