@@ -34,7 +34,7 @@ class Learn
                 arrayLogic();
                 break;
             case 3:
-                help();
+                helpList(functionList);
                 break;
             default:
                 Console.WriteLine("Looking forward to the Weekend.");
@@ -44,7 +44,7 @@ class Learn
  Main();
     }
 
-    private static void help(Dictionary<string, int> functionList)
+    private static void helpList(Dictionary<string, int> functionList)
     {
         foreach (string key in functionList.Keys)
         {
