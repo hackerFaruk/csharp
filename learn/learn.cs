@@ -12,8 +12,12 @@ class Learn
         {
             {"alm", 1},
             {"arr", 2},
-            {"help", 3}
+            {"help", 3},
+            {"change",4}
+
         };
+
+        int[] value = { 3, 4, 6 };
 
         
         Console.WriteLine("choose application or type help to see list ");
@@ -31,10 +35,13 @@ class Learn
                 break;
             case 2:
                 Console.WriteLine("Today is Sunday.");
-                arrayLogic();
+                arrayLogic(value);
                 break;
             case 3:
                 helpList(functionList);
+                break;
+            case 4:
+                changeList( value);
                 break;
             default:
                 Console.WriteLine("Looking forward to the Weekend.");
@@ -44,12 +51,36 @@ class Learn
  Main();
     }
 
+    private static void changeList(int[] value)
+    {
+        foreach (int key in value)
+        {
+            Console.WriteLine($" option: {key} ");
+        }
+        Console.WriteLine("which index to cahnge");
+       
+        string choice = Console.ReadLine();
+        int adress = int.Parse(choice);
+        Console.WriteLine("new val");
+        string choiceval = Console.ReadLine();
+        int adressval = int.Parse(choice);
+        value[adress] = adressval;
+
+         foreach (int key in value)
+        {
+            Console.WriteLine($" option: {key} ");
+        }
+
+
+
+    }
     private static void helpList(Dictionary<string, int> functionList)
     {
         foreach (string key in functionList.Keys)
         {
             Console.WriteLine($" option: {key} ");
         }
+
 
     }
 
@@ -59,9 +90,9 @@ class Learn
        
     }
 
-    static void arrayLogic()
+    static void arrayLogic(int[] value)
     {
-        int[] value = { 3, 4, 6 };
+        
         Console.WriteLine("select a val between 0 and " + (value.Length - 1));
         string number = Console.ReadLine();
         Console.WriteLine(value[int.Parse(s: number)]);
