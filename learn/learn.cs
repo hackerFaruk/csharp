@@ -55,16 +55,18 @@ class Learn
     {
         foreach (int key in value)
         {
-            Console.WriteLine($" option: {key} ");
+            Console.WriteLine(key);
         }
+        
         Console.WriteLine("which index to cahnge");
        
         string choice = Console.ReadLine();
         int adress = int.Parse(choice);
         Console.WriteLine("new val");
         string choiceval = Console.ReadLine();
-        int adressval = int.Parse(choice);
+        int adressval = int.Parse(choiceval);
         value[adress] = adressval;
+
 
          foreach (int key in value)
         {
