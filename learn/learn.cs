@@ -13,7 +13,8 @@ class Learn
             {"alm", 1},
             {"arr", 2},
             {"help", 3},
-            {"change",4}
+            {"change",4},
+            {"exit",5},
 
         };
 
@@ -22,11 +23,9 @@ class Learn
         
         Console.WriteLine("choose application or type help to see list ");
        
-        string choice = Console.ReadLine();
+        string choice ="help";     
+        choice = Console.ReadLine();
       
-
-
-
         switch (functionList[choice])
         {
             case 1:
@@ -43,6 +42,11 @@ class Learn
             case 4:
                 changeList( value);
                 break;
+            case 5:
+                // this is exit so it just returns 
+                Console.WriteLine("Ending Program Have a nice day");
+                 System.Environment.Exit(0);
+                 break;
             default:
                 Console.WriteLine("Looking forward to the Weekend.");
                 break;
@@ -50,6 +54,7 @@ class Learn
 
  Main();
     }
+
 
     private static void changeList(int[] value)
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Utw8P39jdAIyztnsAmPLdnbKKQw/fQ+Qxs2wONZAYQsy29qs8SWnRDGaWNJzsx9w+uVeR3JuqKinPJBVfYcBWQ==",
+  "dgSpecHash": "wYfnkWR/25Sq5ITFkg0NOCGe3TmzLRfZNJURvl3PV5hWBPSEeqdjIPPaBV54VH8HyMLZWrVE32Y5+u52rhiAXA==",
   "success": true,
-  "projectFilePath": "/Users/onuralparslan/projects/csharp/learn/learn.csproj",
+  "projectFilePath": "C:\\Users\\onura\\Documents\\VSproject\\csharp\\learn\\learn.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
