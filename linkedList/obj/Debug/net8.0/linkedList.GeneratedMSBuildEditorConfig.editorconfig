@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = linkedList
-build_property.ProjectDir = /Users/onuralparslan/projects/csharp/linkedList/
+build_property.ProjectDir = C:\Users\onura\Documents\VSproject\csharp\linkedList\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
